@@ -1,0 +1,5 @@
+gymnasium[atari]
+ale-py
+torch
+numpy
+opencv-python
