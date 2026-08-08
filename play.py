@@ -1,4 +1,5 @@
 from wrappers import *
+from agent import *
 import random
 import time
 
